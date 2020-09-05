@@ -6,8 +6,7 @@
   <div class="content-title-group">
     <h2 class="title">Shop at Bern</h2>
     <p>
-      Manage your shopping list! Become a preferred customer and gain access to
-      discount codes, too.
+        Test Demo
     </p>
     <p>Log in to start enjoying your benefits.</p>
     <br />
